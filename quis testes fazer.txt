@@ -1,0 +1,17 @@
+1-inserir conta
+2-alterar conta
+3-inserir conta com o mesmo nome
+4-inserir movimentacao
+5-campos obrigatorios damovimentacao
+6-movimnetacao futura
+7
+remover movimentacao
+8 remover conta com movimentacao
+9saldo das contas 
+10 resumo mensal
+
+https://seubarriga.wcaquino.me
+
+atalho do google 
+
+f12 _ ctrl + f
