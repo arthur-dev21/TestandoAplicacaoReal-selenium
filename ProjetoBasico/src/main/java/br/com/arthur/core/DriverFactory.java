@@ -8,10 +8,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class DriverFactory {
 	
 	private static WebDriver driver;
-	private static String CHROME_DRIVER = "C:/ARTHUR/ESTUDO-TI/TI02-TESTES/te02-testes-funcionais-selenium/drivers/chromedriver.exe";
 	
 	private DriverFactory() {}
-	
+	private static String CHROME_DRIVER = "C:/ARTHUR/ESTUDO-TI/T03-PROJETOS/TESTES/SELENIUM/automacao-site-curso/driver/chromedriver.exe";
 	public static WebDriver getDriver(){
 		if(driver == null) {
 			System.setProperty("webdriver.chrome.driver",CHROME_DRIVER);

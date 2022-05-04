@@ -1,6 +1,6 @@
-1-inserir conta
-2-alterar conta
-3-inserir conta com o mesmo nome
+1-inserir conta-ok
+2-alterar conta-ok
+3-inserir conta com o mesmo nome -> ok
 4-inserir movimentacao
 5-campos obrigatorios damovimentacao
 6-movimnetacao futura
