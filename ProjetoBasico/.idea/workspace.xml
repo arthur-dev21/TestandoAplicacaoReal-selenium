@@ -4,25 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="041fe2a5-4893-40b6-b193-1deae851a04f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/ContaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/DriverFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/Propriedades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/dadosTest/DadosConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/ContasPage.java" beforeDir="false" />
+    <list default="true" id="357351e1-43f0-48b8-bc7e-0fbef90cdea5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/suites/LoginGeral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/Propriedades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/core/Propriedades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/ContaPage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/MenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/pages/MenuPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/tests/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/arthur/tests/ContaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quis testes fazer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../quis testes fazer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/arthur/tests/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/DriverFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/DriverFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/Propriedades$Browsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/Propriedades$Browsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/core/Propriedades.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/core/Propriedades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/pages/ContaPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/pages/MenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/pages/MenuPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/tests/ContaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/arthur/tests/ContaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/arthur/tests/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshot/entrarPaginaInicial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshot/testInserirConta.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +56,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="28ijFiRNKwGEQHLpzczuNqp8eOp" />
+  <component name="ProjectId" id="28iv8sWdamPWROSqRk5jlfwL4k4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -61,12 +68,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ContaTest.testInserirConta">
-    <configuration name="ContaTest.entrarPaginaInicial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SuiteGeral">
+    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjetoBasico" />
       <extension name="coverage">
         <pattern>
@@ -76,13 +82,28 @@
       </extension>
       <option name="PACKAGE_NAME" value="br.com.arthur.tests" />
       <option name="MAIN_CLASS_NAME" value="br.com.arthur.tests.ContaTest" />
-      <option name="METHOD_NAME" value="entrarPaginaInicial" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.arthur.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.arthur.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.arthur.tests.ContaTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaTest.testInserirConta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest.test1_InserirConta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjetoBasico" />
       <extension name="coverage">
         <pattern>
@@ -92,27 +113,60 @@
       </extension>
       <option name="PACKAGE_NAME" value="br.com.arthur.tests" />
       <option name="MAIN_CLASS_NAME" value="br.com.arthur.tests.ContaTest" />
-      <option name="METHOD_NAME" value="testInserirConta" />
+      <option name="METHOD_NAME" value="test1_InserirConta" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimentacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.arthur.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.arthur.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.arthur.tests.MovimentacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteGeral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.arthur.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.arthur.suites" />
+      <option name="MAIN_CLASS_NAME" value="br.com.arthur.suites.SuiteGeral" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ContaTest.testInserirConta" />
-        <item itemvalue="JUnit.ContaTest.entrarPaginaInicial" />
+        <item itemvalue="JUnit.SuiteGeral" />
+        <item itemvalue="JUnit.ContaTest.test1_InserirConta" />
+        <item itemvalue="JUnit.ContaTest" />
+        <item itemvalue="JUnit.ContaTest.test1" />
+        <item itemvalue="JUnit.MovimentacaoTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="041fe2a5-4893-40b6-b193-1deae851a04f" name="Changes" comment="" />
-      <created>1651706202293</created>
+      <changelist id="357351e1-43f0-48b8-bc7e-0fbef90cdea5" name="Changes" comment="" />
+      <created>1651712067137</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651706202293</updated>
+      <updated>1651712067137</updated>
     </task>
     <servers />
   </component>
@@ -126,5 +180,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/arthur/tests/ContaTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
